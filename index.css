@@ -66,6 +66,7 @@ h6 {
 	box-shadow: 3px 3px 9px rgba(0,0,0,.2)
 }
 
+
 strong {
 	font-weight: 700
 }
@@ -107,6 +108,8 @@ dl,ol,ul {
 	margin-right: auto;
 	margin-left: auto
 }
+
+
 
 .column {
 	position: relative;
@@ -333,11 +336,14 @@ header .contact {
 	padding-left: 28px
 }
 
+
+
 header .contact li {
 	font-style: normal;
 	line-height: 1.4;
 	font-size: 18px;
-	word-break: break-all
+	word-break: break-all;
+
 }
 
 .contact-blog::before,.contact-email::before,.contact-github::before,.contact-phone::before,.contact-sinaweibo::before,.contact-wechat::before {
